@@ -22,7 +22,7 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Feel Like Home!This sentence You Should Take Literally When Staying Here.The Hosts Welcome and Care For You,If You Were a Good Friend That Comes For a Visit.They Prepare Something Enjoyable To Eat For You,Know Every Insider Tip Of The City And Always Have an Open Ear.Welcome To Your Friend'S Place! </p>
+    <p>Feel Like Home!This sentence You Should Take Literally When Staying Here.The Hosts Welcome and Care For You,If You Were a Good Friend That Comes For a Visit.They Prepare Something Enjoyable To Eat For You,Know Every Insider Tip Of The City And Always Have an Open Ear.Welcome To Your Friend'S Place!.... </p>
     <p></p>
     </div>
     <div class="col-sm-6 col-md-3 amenitites"> 
