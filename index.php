@@ -9,7 +9,7 @@
     <div class="welcome-message">
         <div class="wrap-info">
             <div class="information">
-                <h1  class="animated fadeInDown" >Test</h1>
+                <h1  class="animated fadeInDown"> Sarva Resorts</h1>
                 <p class="animated fadeInUp">Find the best resort on your fingertips</p>                
             </div>
             <a href="#information" class="arrow-nav scroll wowload fadeInDownBig"><i class="fa fa-angle-down"></i></a>
