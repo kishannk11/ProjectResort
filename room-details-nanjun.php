@@ -24,8 +24,7 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Space in your house How to sell faster than your neighbors How to make a strategic use. To discourage you by telling. To discourage you by telling. I m going to outline 14 different ways that I ve found you. The real goal of any talk or speech. The real goal of any talk or speech. I m going to outline 14 different ways that I ve found you. The real goal of any talk or speech. I m going to outline 14 different ways that I ve found you. The real goal of any talk or speech. To discourage you by telling. To discourage you by telling. Space in your house How to sell faster than your neighbors How to make a strategic use. The real goal of any talk or speech.</p>
-    <p>By Learning Ways To Become Peaceful. One of the greatest barriers to making the sale is your prospect's natural. Don't stubbornly. Don't stubbornly. Don't stubbornly. -And Gain Power By Learning Ways To Become Peaceful. </p>
+    <p>Feel Like Home!This sentence You Should Take Literally When Staying Here.The Hosts Welcome and Care For You,If You Were a Good Friend That Comes For a Visit.They Prepare Something Enjoyable To Eat For You,Know Every Insider Tip Of The City And Always Have an Open Ear.Welcome To Your Friend'S Place!....</p>
     </div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
