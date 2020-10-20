@@ -10,7 +10,7 @@
         <div class="wrap-info">
             <div class="information">
                 <h1  class="animated fadeInDown"> Sarva Resorts</h1>
-                <p class="animated fadeInUp">This is a Test Run</p>                
+                <p class="animated fadeInUp">Find the best resorts in your fingertips</p>                
             </div>
             <a href="#information" class="arrow-nav scroll wowload fadeInDownBig"><i class="fa fa-angle-down"></i></a>
         </div>
