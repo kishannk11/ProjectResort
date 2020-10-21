@@ -151,8 +151,8 @@ body::-webkit-scrollbar {
 }
 @media (max-width: 767px){	
 	.navbar-toggle{margin-top: 23px;}
-    .navbar-default .navbar-toggle{background-color: #bfa145;}
-    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color: #5F5021;}
+    .navbar-default .navbar-toggle{background-color: #ed9f4c;}
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color: #ec574c;}
     .navbar-default .navbar-toggle .icon-bar {background-color: #fff;}
     .navbar-nav > li > a{line-height: 1em;}
 
