@@ -10,7 +10,7 @@
 
 
        <div class="spacer">
-			<div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><video  class="embed-responsive-item" src="C:\xampp\htdocs\hotel\images\photos\Charmadi.mp4?autoplay=1" width="100%" height="400" frameborder="0" controls="1"></video></div>
+			<div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/AO-CfYKNBYE?autoplay=1&showinfo=0&controls=0&rel=0&showinfo=0&disablekb=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe></div>
        </div>
 
 
