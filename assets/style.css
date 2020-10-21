@@ -13,11 +13,11 @@ p{margin-bottom: 1em;line-height: 1.5em;}
 
 
 .btn{border:none !important;border-radius: 0;padding: 5px 30px;}
-.btn-default{background:#face48;box-shadow: none !important;color: #fff;}
-.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active{box-shadow: none !important;background:#756534;color: #fff;outline: none !important;}
+.btn-default{background:#ed9f4c;box-shadow: none !important;color: #fff;}
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active{box-shadow: none !important;background:#ec574c;color: #fff;outline: none !important;}
 
-.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{background-color: #bfa145;border-color: #bfa145;}
-.pagination>li>a, .pagination>li>span{color: #bfa145;}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{background-color: #ec574c;border-color: #ec574c;}
+.pagination>li>a, .pagination>li>span{color: #ec574c;}
 .spacer{padding:6em 0; }
 
 /*nav*/
@@ -37,9 +37,9 @@ p{margin-bottom: 1em;line-height: 1.5em;}
 .banner .welcome-message{position: absolute;left: 0;right:0;bottom:0;top:0;text-align: center;}
 .banner .welcome-message .wrap-info{display: table;height: 100%;width: 100%;}
 .banner .welcome-message .wrap-info .information{display: table-cell;vertical-align: middle;}
-.banner .arrow-nav{position: absolute;bottom:-3.5em;background-color: #bfa145;height: 7em;width: 7em;display: inline-block;z-index: 100;left: 50%;margin-left: -52px;color: #fff;border-radius: 50%;}
+.banner .arrow-nav{position: absolute;bottom:-3.5em;background-color: #ed9f4c;height: 7em;width: 7em;display: inline-block;z-index: 100;left: 50%;margin-left: -52px;color: #fff;border-radius: 50%;}
 .banner .arrow-nav i{font-size: 5em;line-height:105px;}
-.banner .arrow-nav:hover{background: #756534;}
+.banner .arrow-nav:hover{background: #ec574c;}
 
 
 /*reserve-info*/
