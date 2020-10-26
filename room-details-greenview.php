@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Green View</h1>
+<h1 class="title">Greenview Homestay</h1>
 
 
 
@@ -41,7 +41,7 @@
       <div class="size-price">Size<span>44 sq</span></div>
     </div>
     <div class="col-sm-3 col-md-2">
-      <div class="size-price">Price<span>$200.00</span></div>
+      <div class="size-price">Price<span>₹200.00</span></div>
     </div>
   </div>
 </div>
