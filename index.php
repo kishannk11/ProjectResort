@@ -42,7 +42,7 @@
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Mounavana1.jpg" class="img-responsive"><div class="info"><h3>Mounavana Cottage</h3><p>[Contents Needed]</p><a href="room-details-mounavana.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/RR1.jpg" class="img-responsive"><div class="info"><h3>River Edge</h3><p>[Contents Needed]</p><a href="room-details-riveredge.php" class="btn btn-default">Check Details</a></div></div></div>
    <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Green1.jpg" class="img-responsive"><div class="info"><h3>Greenview Homestay</h3><p>[Contents Needed]</p><a href="room-details-greenview.php" class="btn btn-default">Check Details</a></div></div></div>
-    <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Bhagya1.jpg" class="img-responsive"><div class="info"><h3>Bhagyashree Homestay</h3><p>[Contents Needed]</p><a href="room-detailsbhagyashree.php" class="btn btn-default">Check Details</a></div></div></div>
+    <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Bhagya1.jpg" class="img-responsive"><div class="info"><h3>Bhagyashree Homestay</h3><p>[Contents Needed]</p><a href="room-details-bhagyashree.php" class="btn btn-default">Check Details</a></div></div></div>
 </div>
 
                      
