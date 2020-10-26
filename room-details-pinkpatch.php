@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Pink Patch</h1>
+<h1 class="title">Pink Patch Resort</h1>
 
 
 
