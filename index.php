@@ -36,13 +36,13 @@
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Eagle1.jpg" class="img-responsive"><div class="info"><h3>Eagle Homestay</h3><p>[Contents Needed]</p><a href="room-details-eagle.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Naveen1.jpg" class="img-responsive"><div class="info"><h3>Naveen Homestay</h3><p> [Contents Needed]</p><a href="room-details-naveen.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Nanjun1.jpg" class="img-responsive"><div class="info"><h3>Nanjundeshwara Homestay</h3><p>[Contents Needed]</p><a href="room-details-nanjun.php" class="btn btn-default">Check Details</a></div></div></div>
-  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/grk1.jpg" class="img-responsive"><div class="info"><h3>GRK Resort</h3><p>Cherish new beginning and hoilday with GRK Resort at the best location in <b>Sakleshpura</b></p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
-  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/PP1.jpg" class="img-responsive"><div class="info"><h3>Pink Patch Resort</h3><p> [Contents Needed]</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
-  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Dweepa1.jpg" class="img-responsive"><div class="info"><h3>Dweepa Resort</h3><p>[Contents Needed]</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
-  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Mounavana1.jpg" class="img-responsive"><div class="info"><h3>Mounavana Cottage</h3><p>[Contents Needed]</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
-  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/RR1.jpg" class="img-responsive"><div class="info"><h3>River Edge</h3><p>[Contents Needed]</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
-   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Green1.jpg" class="img-responsive"><div class="info"><h3>Greenview Homestay</h3><p>[Contents Needed]</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
-    <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Bhagya1.jpg" class="img-responsive"><div class="info"><h3>Bhagyashree Homestay</h3><p>[Contents Needed]</p><a href="room-details.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/grk1.jpg" class="img-responsive"><div class="info"><h3>GRK Resort</h3><p>Cherish new beginning and hoilday with GRK Resort at the best location in <b>Sakleshpura</b></p><a href="room-details-grk.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/PP1.jpg" class="img-responsive"><div class="info"><h3>Pink Patch Resort</h3><p> [Contents Needed]</p><a href="room-details-pinkpatch.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Dweepa1.jpg" class="img-responsive"><div class="info"><h3>Dweepa Resort</h3><p>[Contents Needed]</p><a href="room-details-dweepa.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Mounavana1.jpg" class="img-responsive"><div class="info"><h3>Mounavana Cottage</h3><p>[Contents Needed]</p><a href="room-details-mounavana.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/RR1.jpg" class="img-responsive"><div class="info"><h3>River Edge</h3><p>[Contents Needed]</p><a href="room-details-riveredge.php" class="btn btn-default">Check Details</a></div></div></div>
+   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Green1.jpg" class="img-responsive"><div class="info"><h3>Greenview Homestay</h3><p>[Contents Needed]</p><a href="room-details-greenview.php" class="btn btn-default">Check Details</a></div></div></div>
+    <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/Bhagya1.jpg" class="img-responsive"><div class="info"><h3>Bhagyashree Homestay</h3><p>[Contents Needed]</p><a href="room-detailsbhagyashree.php" class="btn btn-default">Check Details</a></div></div></div>
 </div>
 
                      
@@ -139,6 +139,10 @@
         <div class="form-group">
             <textarea class="form-control"  placeholder="Message" rows="4"></textarea>
         </div>
+		
+		<div class="form-group">
+				<p>For more info, contact us through<a href="https://api.whatsapp.com/send?phone=919632467873&text="><img src="images/photos/wa.png"  alt="WhatsApp Logo"></a></p>	
+		</div>
         <button class="btn btn-default">Submit</button>
     </form>    
 </div>
