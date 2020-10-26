@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Dweepa Homestay</h1>
+<h1 class="title">Dweepa Resort</h1>
 
 
 
