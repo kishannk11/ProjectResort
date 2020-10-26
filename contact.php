@@ -34,6 +34,10 @@
 			<div class="form-group">
 			<textarea type="email" class="form-control"  placeholder="Message" rows="4"></textarea>
 			</div>
+			
+			<div class="form-group">
+				<p>Contact us through WhatsApp <a href="https://api.whatsapp.com/send?phone=919632467873&text="><img src="images/photos/wa.png"  alt="WhatsApp Logo"></a></p>	
+			</div>
 					
 			<button type="submit" class="btn btn-default">Send</button>
 			</form>
