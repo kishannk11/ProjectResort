@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">GRK Homestay</h1>
+<h1 class="title">River Edge</h1>
 
 
 
