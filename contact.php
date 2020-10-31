@@ -122,7 +122,9 @@ if(isset($_POST["submit"]))
       
 			<textarea name="message" class="form-control" placeholder="Enter Message"><?php echo $message; ?></textarea>
 			</div>
-	 
+	 		<div class="form-group">
+				<p>Contact us through WhatsApp <a href="https://api.whatsapp.com/send?phone=919632467873&text="><img src="images/photos/wa.png"  alt="WhatsApp Logo"></a></p>	
+			</div>
 			<div class="form-group" align="center">
 			<input type="submit" name="submit" class="btn btn-info" value="Submit" />
 			</div>			
