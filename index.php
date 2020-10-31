@@ -182,10 +182,6 @@ if(isset($_POST["submit"]))
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/greenview/greenview1.jpg" class="img-responsive"><div class="info"><h3>Mounavana Cottage</h3><p>[Contents Needed]</p><a href="room-details-mounavana.php" class="btn btn-default">Check Details</a></div></div></div>
   
 </div>
-
-                     
-
-
 </div>
 
 <!-- reservation-information -->
