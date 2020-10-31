@@ -9,9 +9,22 @@
  <!-- RoomDetails -->
             <div id="RoomDetails" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-                <div class="item active"><img src="images/photos/Eagle1.jpg" class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/Eagle2.jpg"  class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/Eagle3.jpg"  class="img-responsive" alt="slide"></div>
+                <div class="item active"><img src="images/photos/riveredge/river1.jpg" class="img-responsive" alt="slide"></div>
+                <div class="item  height-full"><img src="images/photos/riveredge/river2.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river3.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river4.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river5.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river6.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river7.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river8.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river9.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river10.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river11.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river12.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river13.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river14.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river15.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/riveredge/river16.jpg"  class="img-responsive" alt="slide"></div>
                 </div>
                 <!-- Controls -->
                 <a class="left carousel-control" href="#RoomDetails" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>

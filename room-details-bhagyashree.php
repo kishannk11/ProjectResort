@@ -9,9 +9,10 @@
  <!-- RoomDetails -->
             <div id="RoomDetails" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-                <div class="item active"><img src="images/photos/Eagle1.jpg" class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/Eagle2.jpg"  class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/Eagle3.jpg"  class="img-responsive" alt="slide"></div>
+                <div class="item active"><img src="images/photos/bhagyashree/bhagya1.jpg" class="img-responsive" alt="slide"></div>
+                <div class="item  height-full"><img src="images/photos/bhagyashree/bhagya2.jpg"  class="img-responsive" alt="slide"></div>
+                <div class="item  height-full"><img src="images/photos/bhagyashree/bhagya3.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/bhagyashree/bhagya4.jpg"  class="img-responsive" alt="slide"></div>
                 </div>
                 <!-- Controls -->
                 <a class="left carousel-control" href="#RoomDetails" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
