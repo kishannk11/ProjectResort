@@ -22,8 +22,8 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Feel Like Home!This sentence You Should Take Literally When Staying Here.The Hosts Welcome and Care For You,If You Were a Good Friend That Comes For a Visit.They Prepare Something Enjoyable To Eat For You,Know Every Insider Tip Of The City And Always Have an Open Ear.Welcome To Your Friend'S Place!.... </p>
-    <p></p>
+    <p>Feel like home!This sentence you should take literally when staying here. The hosts welcome and care for you, If you were a Good Friend that comes for a visit. They prepare something enjoyable to eat for you, know every insider tip of the City and always have an open ear. Welcome to your friend's place!.... </p><br>
+    <p>Address: <b>Eagle Homestay, Kushalnagar</b></p>
     </div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
@@ -37,11 +37,9 @@
     
 
     </div>  
+    
     <div class="col-sm-3 col-md-2">
-      <div class="size-price">Size<span>44 sq</span></div>
-    </div>
-    <div class="col-sm-3 col-md-2">
-      <div class="size-price">Price<span>$200.00</span></div>
+      <div class="size-price">Price<span>₹1700.00</span>(per Night)</div>
     </div>
   </div>
 </div>
