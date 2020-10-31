@@ -9,11 +9,12 @@
  <!-- RoomDetails -->
             <div id="RoomDetails" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-                <div class="item active"><img src="images/photos/Nanjun1.jpg" class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/Nanjun2.jpg"  class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/Nanjun3.jpg"  class="img-responsive" alt="slide"></div>
-				<div class="item  height-full"><img src="images/photos/Nanjun4.jpg"  class="img-responsive" alt="slide"></div>
-				<div class="item  height-full"><img src="images/photos/Nanjun5.jpg"  class="img-responsive" alt="slide"></div>
+                <div class="item active"><img src="images/photos/nanjun/nanjun1.jpg" class="img-responsive" alt="slide"></div>
+                <div class="item  height-full"><img src="images/photos/nanjun/nanjun2.jpg"  class="img-responsive" alt="slide"></div>
+                <div class="item  height-full"><img src="images/photos/nanjun/nanjun3.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/nanjun/nanjun4.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/nanjun/nanjun5.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/nanjun/nanjun6.jpg"  class="img-responsive" alt="slide"></div>
                 </div>
                 <!-- Controls -->
                 <a class="left carousel-control" href="#RoomDetails" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
