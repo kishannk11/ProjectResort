@@ -1,5 +1,142 @@
 <?php include 'header.php';?>
+<?php
+$error = '';
+$name = '';
+$email = '';
+$phone = '';
+$room = '';
+$adult = '';
+$date = '';
+$month = '';
+$year = '';
+$message = '';
 
+function clean_text($string)
+{
+ $string = trim($string);
+ $string = stripslashes($string);
+ $string = htmlspecialchars($string);
+ return $string;
+}
+
+if(isset($_POST["submit"]))
+{
+ if(empty($_POST["name"]))
+ {
+  $error .= '<p><label class="text-danger">Please Enter your Name</label></p>';
+ }
+ else
+ {
+  $name = clean_text($_POST["name"]);
+  if(!preg_match("/^[a-zA-Z ]*$/",$name))
+  {
+   $error .= '<p><label class="text-danger">Only letters and white space allowed</label></p>';
+  }
+ }
+ if(empty($_POST["email"]))
+ {
+  $error .= '<p><label class="text-danger">Please Enter your Email</label></p>';
+ }
+ else
+ {
+  $email = clean_text($_POST["email"]);
+  if(!filter_var($email, FILTER_VALIDATE_EMAIL))
+  {
+   $error .= '<p><label class="text-danger">Invalid email format</label></p>';
+  }
+ }
+ if(empty($_POST["phone"]))
+ {
+  $error .= '<p><label class="text-danger">Phone is required</label></p>';
+ }
+ else
+ {
+  $phone = $_POST["phone"];
+ }
+ if(empty($_POST["room"]))
+ {
+  $error .= '<p><label class="text-danger">Room is required</label></p>';
+ }
+ else
+ {
+  $room = clean_text($_POST["room"]);
+ }
+ if(empty($_POST["adult"]))
+ {
+  $error .= '<p><label class="text-danger">Adult is required</label></p>';
+ }
+ else
+ {
+  $adult = clean_text($_POST["adult"]);
+ }
+ if(empty($_POST["date"]))
+ {
+  $error .= '<p><label class="text-danger">Date is required</label></p>';
+ }
+ else
+ {
+  $date = clean_text($_POST["date"]);
+ }
+ if(empty($_POST["month"]))
+ {
+  $error .= '<p><label class="text-danger">month is required</label></p>';
+ }
+ else
+ {
+  $month = clean_text($_POST["month"]);
+ }
+ if(empty($_POST["year"]))
+ {
+  $error .= '<p><label class="text-danger">year is required</label></p>';
+ }
+ else
+ {
+  $year = clean_text($_POST["year"]);
+ }
+ if(empty($_POST["message"]))
+ {
+  $error .= '<p><label class="text-danger">Message is required</label></p>';
+ }
+ else
+ {
+  $message = clean_text($_POST["message"]);
+ }
+
+ if($error == '')
+ {
+  $file_open = fopen("Reservation.csv", "a+");
+  $no_rows = count(file("Reservation.csv"));
+  if($no_rows > 1)
+  {
+   $no_rows = ($no_rows - 1) + 1;
+  }
+  $form_data = array(
+   'sr_no'  => $no_rows,
+   'name'  => $name,
+   'email'  => $email,
+   'phone' => $phone,
+   'room' => $room,
+   'adult' =>$adult,
+   'date' => $date,
+   'month' => $month,
+   'year' => $year,
+   'message' => $message
+  );
+  fputcsv($file_open, $form_data);
+  $error = '<script>alert("Success");</script>';
+  $name = '';
+  $email = '';
+  $phone = '';
+  $room='';
+  $adult='';
+  $date='';
+  $month='';
+  $year='';
+  $message = '';
+ }
+}
+
+?>
 
 
 
@@ -59,112 +196,114 @@
 </div>
 <div class="col-sm-5 col-md-4">
 <h3>Reservation</h3>
-    <form role="form" class="wowload fadeInRight">
+    <form method="post" class="wowload fadeInRight">
+	<?php echo $error; ?>
         <div class="form-group">
-            <input type="text" class="form-control"  placeholder="Name">
+            <input type="text" name="name" class="form-control"  placeholder="Name" value="<?php echo $name; ?>"/>
         </div>
         <div class="form-group">
-            <input type="email" class="form-control"  placeholder="Email">
+            <input type="email" name="email" class="form-control"  placeholder="Email" value="<?php echo $email; ?>"/>
         </div>
         <div class="form-group">
-            <input type="Phone" class="form-control"  placeholder="Phone">
+            <input type="Phone" name="phone" class="form-control"  placeholder="Phone" value="<?php echo $phone; ?>">
         </div>        
         <div class="form-group">
             <div class="row">
             <div class="col-xs-6">
-            <select class="form-control">
+            <select class="form-control" name="room" value="<?php echo $room; ?>">
               <option>No. of Rooms</option>
-              <option>1</option>
-			  <option>2</option>
+              <option>2</option>
               <option>3</option>
               <option>4</option>
-			  <option>5</option>
+              <option>5</option>
             </select>
             </div>        
             <div class="col-xs-6">
-            <select class="form-control">
+            <select class="form-control" name="adult">
               <option>No. of Adult</option>
-              <option>1</option>
-			  <option>2</option>
+              <option>2</option>
               <option>3</option>
               <option>4</option>
-			  <option>5</option>
+              <option>5</option>
             </select>
             </div></div>
         </div>
         <div class="form-group">
             <div class="row">
             <div class="col-xs-4">
-              <select class="form-control col-sm-2" name="expiry-month" id="expiry-month">
+              <select class="form-control col-sm-2" name="date" >
                 <option>Date</option>
-                <option value="01">1</option>
-                <option value="02">2</option>
-                <option value="03">3</option>
-                <option value="04">4</option>
-                <option value="05">5</option>
-                <option value="06">6</option>
-                <option value="07">7</option>
-                <option value="08">8</option>
-                <option value="09">9</option>
-                <option value="10">10</option>
-                <option value="11">11</option>
-                <option value="12">12</option>
-				<option value="13">13</option>
-				<option value="14">14</option>
-				<option value="15">15</option>
-				<option value="16">16</option>
-				<option value="17">17</option>
-				<option value="18">18</option>
-				<option value="19">19</option>
-				<option value="20">20</option>
-				<option value="21">21</option>
-				<option value="22">22</option>
-				<option value="23">23</option>
-				<option value="24">24</option>
-				<option value="25">25</option>
-				<option value="26">26</option>
-				<option value="27">27</option>
-				<option value="28">28</option>
-				<option value="29">29</option>
-				<option value="30">30</option>
-				<option value="31">31</option>
+                <option>1</option>
+                <option>2</option>
+				<option>3</option>
+				<option>4</option>
+				<option>5</option>
+				<option>6</option>
+				<option>7</option>
+				<option>8</option>
+				<option>9</option>
+				<option>10</option>
+				<option>11</option>
+				<option>12</option>
+				<option>13</option>
+				<option>14</option>
+				<option>15</option>
+				<option>16</option>
+				<option>17</option>
+				<option>18</option>
+				<option>19</option>
+				<option>20</option>
+				<option>21</option>
+				<option>22</option>
+				<option>23</option>
+				<option>24</option>
+				<option>25</option>
+				<option>26</option>
+				<option>27</option>
+				<option>28</option>
+				<option>29</option>
+				<option>30</option>
+				<option>31</option>
               </select>
             </div>
             <div class="col-xs-4">
-              <select class="form-control col-sm-2" name="expiry-month" id="expiry-month">
+              <select class="form-control col-sm-2" name="month">
                 <option>Month</option>
-                <option value="Jan">Jan</option>
-                <option value="Feb">Feb</option>
-                <option value="Mar">Mar</option>
-                <option value="Apr">Apr</option>
-                <option value="May">May</option>
-                <option value="June">June</option>
-                <option value="July">July</option>
-                <option value="Aug">Aug</option>
-                <option value="Sep">Sep</option>
-                <option value="Oct">Oct</option>
-                <option value="Nov">Nov</option>
-                <option value="Dec">Dec</option>
+                <option>January</option>
+                <option >February</option>
+                <option >March</option>
+                <option >April</option>
+                <option >May</option>
+                <option >June</option>
+                <option >July</option>
+                <option >August</option>
+                <option >September</option>
+                <option >October</option>
+                <option >November</option>
+                <option >December</option>
               </select>
             </div>
             <div class="col-xs-4">
-              <select class="form-control" name="expiry-year">
-                <option value="20">2020</option>
-                <option value="21">2021</option>
-                <option value="22">2022</option>
-                <option value="23">2023</option>
+              <select class="form-control" name="year">
+				<option>Year</option>
+                <option >2020</option>
+                <option >2021</option>
+                <option >2022</option>
+                <option >2023</option>
               </select>
             </div>
           </div>
         </div>
         <div class="form-group">
-            <textarea class="form-control"  placeholder="Message" rows="4"></textarea>
+            <textarea class="form-control" name="message"  placeholder="Message" rows="4"></textarea>
         </div>
-		
 		<div class="form-group">
-				<p>For more info, contact us through<a href="https://api.whatsapp.com/send?phone=919632467873&text="><img src="images/photos/wa.png"  alt="WhatsApp Logo"></a></p>	
+			<p>Contact us through WhatsApp <a href="https://api.whatsapp.com/send?phone=919632467873&text="><img src="images/photos/wa.png"  alt="WhatsApp Logo"></a></p>	
 		</div>
-        <button class="btn btn-default">Submit</button>
+        <div class="form-group" >
+      <input type="submit" name="submit" class="btn btn-default" value="Submit" />
+     </div>
+	 
     </form>    
 </div>
 </div>  
