@@ -9,7 +9,7 @@
  <!-- RoomDetails -->
             <div id="RoomDetails" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-                <div class="item active"><img src="images/photos/pinkpatch/pp1jpg" class="img-responsive" alt="slide"></div>
+                <div class="item active"><img src="images/photos/pinkpatch/pp1.jpg" class="img-responsive" alt="slide"></div>
                 <div class="item  height-full"><img src="images/photos/pinkpatch/pp2.jpg"  class="img-responsive" alt="slide"></div>
 				<div class="item  height-full"><img src="images/photos/pinkpatch/pp3.jpg"  class="img-responsive" alt="slide"></div>
 				<div class="item  height-full"><img src="images/photos/pinkpatch/pp4.jpg"  class="img-responsive" alt="slide"></div>
