@@ -10,8 +10,15 @@
             <div id="RoomDetails" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                 <div class="item active"><img src="images/photos/pinkpatch/pp1jpg" class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/pinkpatch/pp1.jpg"  class="img-responsive" alt="slide"></div>
-                <div class="item  height-full"><img src="images/photos/Eagle3.jpg"  class="img-responsive" alt="slide"></div>
+                <div class="item  height-full"><img src="images/photos/pinkpatch/pp2.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/pinkpatch/pp3.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/pinkpatch/pp4.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/pinkpatch/pp5.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/pinkpatch/pp6.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/pinkpatch/pp7.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/pinkpatch/pp8.jpg"  class="img-responsive" alt="slide"></div>
+				<div class="item  height-full"><img src="images/photos/pinkpatch/pp9.jpg"  class="img-responsive" alt="slide"></div>
+				
                 </div>
                 <!-- Controls -->
                 <a class="left carousel-control" href="#RoomDetails" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
