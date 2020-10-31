@@ -74,7 +74,8 @@
             <div class="col-xs-6">
             <select class="form-control">
               <option>No. of Rooms</option>
-              <option>2</option>
+              <option>1</option>
+			  <option>2</option>
               <option>3</option>
               <option>4</option>
 			  <option>5</option>
@@ -83,7 +84,8 @@
             <div class="col-xs-6">
             <select class="form-control">
               <option>No. of Adult</option>
-              <option>2</option>
+              <option>1</option>
+			  <option>2</option>
               <option>3</option>
               <option>4</option>
 			  <option>5</option>
@@ -131,18 +133,18 @@
             <div class="col-xs-4">
               <select class="form-control col-sm-2" name="expiry-month" id="expiry-month">
                 <option>Month</option>
-                <option value="01">Jan</option>
-                <option value="02">Feb</option>
-                <option value="03">Mar</option>
-                <option value="04">Apr</option>
-                <option value="05">May</option>
-                <option value="06">June</option>
-                <option value="07">July</option>
-                <option value="08">Aug</option>
-                <option value="09">Sep</option>
-                <option value="10">Oct</option>
-                <option value="11">Nov</option>
-                <option value="12">Dec</option>
+                <option value="Jan">Jan</option>
+                <option value="Feb">Feb</option>
+                <option value="Mar">Mar</option>
+                <option value="Apr">Apr</option>
+                <option value="May">May</option>
+                <option value="June">June</option>
+                <option value="July">July</option>
+                <option value="Aug">Aug</option>
+                <option value="Sep">Sep</option>
+                <option value="Oct">Oct</option>
+                <option value="Nov">Nov</option>
+                <option value="Dec">Dec</option>
               </select>
             </div>
             <div class="col-xs-4">
