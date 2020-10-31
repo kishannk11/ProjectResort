@@ -123,7 +123,7 @@ if(isset($_POST["submit"]))
    'message' => $message
   );
   fputcsv($file_open, $form_data);
-  $error = '<script>alert("Success");</script>';
+  $error = '<script>alert("Registration Successful");</script>';
   $name = '';
   $email = '';
   $phone = '';
