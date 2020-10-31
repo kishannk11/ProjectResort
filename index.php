@@ -179,7 +179,7 @@ if(isset($_POST["submit"]))
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/riveredge/river1.jpg" class="img-responsive"><div class="info"><h3>Riveredge Resort</h3><p>Eagle Homestay is located in one of the best place.</p><a href="room-details-riveredge.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/greenview/greenview1.jpg" class="img-responsive"><div class="info"><h3>Greenview Homestay</h3><p>Eagle Homestay is located in one of the best place.</p><a href="room-details-greenview.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/bhagyashree/Bhagya1.jpg" class="img-responsive"><div class="info"><h3>Bhagyashree Homestay</h3><p>[Contents Needed]</p><a href="room-details-bhagyashree.php" class="btn btn-default">Check Details</a></div></div></div>
-  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/greenview/greenview1.jpg" class="img-responsive"><div class="info"><h3>Mounavana Cottage</h3><p>[Contents Needed]</p><a href="room-details-mounavana.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/mounavana/mouna1.jpg" class="img-responsive"><div class="info"><h3>Mounavana Cottage</h3><p>[Contents Needed]</p><a href="room-details-mounavana.php" class="btn btn-default">Check Details</a></div></div></div>
   
 </div>
 </div>
