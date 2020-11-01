@@ -189,7 +189,7 @@ if(isset($_POST["submit"]))
 <div class="container">
 <div class="row">
 <div class="col-sm-7 col-md-8">
-    <div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><iframe width="560" height="315" src="https://www.youtube.com/embed/AO-CfYKNBYE?autoplay=1&showinfo=0&controls=0&rel=0&showinfo=0&disablekb=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe></div>
+    <div class="embed-responsive embed-responsive-16by9 wowload fadeInLeft"><iframe width="560" height="315" src="https://www.youtube.com/embed/gO3RDRpxumw?autoplay=1&showinfo=0&controls=0&rel=0&showinfo=0&disablekb=1&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe></div>
 </div>
 <div class="col-sm-5 col-md-4">
 <h3>Reservation</h3>
