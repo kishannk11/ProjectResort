@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-sm-5">
                     <h4>Sarva Resorts</h4>
-                    <p>[Address has to be Uploaded]</p>
+                    <p>Near Friends Engineering works<br> Malabar Road, Meenpet,<br> Virajapet - 571218</p>
                 </div>              
                  
                  <div class="col-sm-3">
@@ -31,7 +31,7 @@
                     <a href="https://www.facebook.com/sarva.resorts.7"><i class="fa fa-facebook-square" data-toggle="tooltip" data-placement="top" data-original-title="facebook"></i></a>
                     <a href="https://www.instagram.com/sarvaresorts/"><i class="fa fa-instagram"  data-toggle="tooltip" data-placement="top" data-original-title="instragram"></i></a>
                     <a href="https://twitter.com/ResortsSarva"><i class="fa fa-twitter-square" data-toggle="tooltip" data-placement="top" data-original-title="twitter"></i></a>
-                    <a href="#"><i class="fa fa-youtube-square" data-toggle="tooltip" data-placement="top" data-original-title="youtube"></i></a>
+                    <a href="https://www.youtube.com/"><i class="fa fa-youtube-square" data-toggle="tooltip" data-placement="top" data-original-title="youtube"></i></a>
                     </div>
                 </div>
             </div>
