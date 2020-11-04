@@ -23,26 +23,26 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Feel Like Home!This sentence You Should Take Literally When Staying Here.The Hosts Welcome and Care For You,If You Were a Good Friend That Comes For a Visit.They Prepare Something Enjoyable To Eat For You,Know Every Insider Tip Of The City And Always Have an Open Ear.Welcome To Your Friend'S Place!.... </p>
-    <p></p>
-    </div>
+    <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To Your Friend'S Place!... </p>
+    <p>Surrounded by Tea Estate, nearer to Irupu Falls</p>
+    
+	<p>Address: <b>Bhagyashree Homestay, T.Shettigeri Village & Post, Virajpet</b></p>
+	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
     <ul>
       <li>Hot Water</li>
-      <li>CCTV Surveilance</li>
-      <li>Wifi and TV</li>
+      <li>TV</li>
       <li>Parking</li>
-      <li></li>
     </ul>
     
 
     </div>  
     <div class="col-sm-3 col-md-2">
-      <div class="size-price">Size<span>44 sq</span></div>
+      <div class="size-price">Price<span>₹1800.00</span>(without Food)</div>
     </div>
     <div class="col-sm-3 col-md-2">
-      <div class="size-price">Price<span>$200.00</span></div>
+      <div class="size-price">Price<span>₹2000.00</span>(with Food)</div>
     </div>
   </div>
 </div>
