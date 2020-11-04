@@ -23,7 +23,6 @@
 			</div>
 			
             <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/1.jpg" title="Baba Budangiri" class="gallery-image" data-gallery><img src="images/photos/4.jpg" class="img-responsive"></a></div>
-            <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/2.jpg" title="Abbey Falls" class="gallery-image" data-gallery><img src="images/photos/5.jpg" class="img-responsive"></a></div>
             <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/3.jpg" title="Kayaking" class="gallery-image" data-gallery><img src="images/photos/6.jpg" class="img-responsive"></a></div>
             <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/4.jpg" title="Sunset" class="gallery-image" data-gallery><img src="images/photos/7.jpg" class="img-responsive"></a></div>
             <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/5.jpg" title="Agumbe" class="gallery-image" data-gallery><img src="images/photos/8.jpg" class="img-responsive"></a></div>
