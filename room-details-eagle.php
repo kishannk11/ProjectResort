@@ -22,8 +22,9 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Feel like home!This sentence you should take literally when staying here. The hosts welcome and care for you, If you were a Good Friend that comes for a visit. They prepare something enjoyable to eat for you, know every insider tip of the City and always have an open ear. Welcome to your friend's place!.... </p><br>
-    <p>Address: <b>Eagle Homestay, Kushalnagar</b></p>
+    <p>Feel like home! This sentence you should take literally when staying here. The hosts welcome and care for you, If you were a Good Friend that comes for a visit. They prepare something enjoyable to eat for you, know every insider tip of the City and always have an open ear. Welcome to your friend's place!.... </p><br>
+    <p><ul><li>(Food not Available)</li></ul></p>
+	<p>Address: <b>Eagle Homestay, Kushalnagar</b></p>
     </div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
@@ -32,7 +33,6 @@
       <li>CCTV Surveilance</li>
       <li>Wifi and TV</li>
       <li>Parking</li>
-      <li></li>
     </ul>
     
 
