@@ -11,8 +11,8 @@
               
 			  
 			<div class="col-sm-4 wowload fadeInUp">
-				<a href="images/photos/baba.jpg" title="Coffee" class="gallery-image" data-gallery>
-					<img src="images/photos/baba.jpg" class="img-responsive">
+				<a href="images/photos/2.jpg" title="Coffee" class="gallery-image" data-gallery>
+					<img src="images/photos/2.jpg" class="img-responsive">
 				</a>
 			</div>
             
