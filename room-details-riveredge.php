@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">River-Edge Resort</h1>
+<h1 class="title">Sarva Resort</h1>
 
 
 
@@ -35,10 +35,10 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To River-Edge Resort!.. </p>
-    <p>River-Edge is on the bank of River, nearer to Nisarga Dhama and Dubare, with Swimming Pool inside. Indoor and Outdoor Games are available.</p>
+    <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To Sarva Resort!.. </p>
+    <p>This Resort is on the bank of River, nearer to Nisarga Dhama and Dubare, with Swimming Pool inside. Indoor and Outdoor Games are available.</p>
     
-	<p>Address: <b>River-Edge Resort, Kushalnagar</b></p>
+	<p>Address: <b>Kushalnagar</b></p>
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
