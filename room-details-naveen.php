@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Naveen Homestay</h1>
+<h1 class="title">Sarva Resorts</h1>
 
 
 
@@ -28,7 +28,7 @@
 	<p>Nearer to Dubare Elephant Camp, Nisarga Dhama, Harangi Backwater, Goldern Temple</p>
 	<p><ul><li>Complimentary Breakfast (no food available)</li></ul></p>
 	   
-	<p>Address: <b>Naveen Homestay, Nanjrayapatna, Kushalnagar</b></p>
+	<p>Address: <b>Kushalnagar</b></p>
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
