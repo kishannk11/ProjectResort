@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Bhagyashree Homestay</h1>
+<h1 class="title">Sarva Resorts</h1>
 
 
 
@@ -26,7 +26,7 @@
     <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To Your Friend'S Place!... </p>
     <p>Surrounded by Tea Estate, nearer to Irupu Falls</p>
     
-	<p>Address: <b>Bhagyashree Homestay, T.Shettigeri Village & Post, Virajpet</b></p>
+	<p>Address: <b>Virajpet</b></p>
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
