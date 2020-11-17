@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Pink Patch Resort</h1>
+<h1 class="title">Sarva Resort</h1>
 
 
 
@@ -30,10 +30,10 @@
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
     <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To Your Friend'S Place!..</p>
-    <p> Pinkpatch Resort is surrounded by Beautiful Estate, and Swimming Pool inside. Nearer to Dubare Camp</p>
+    <p> This resort is surrounded by Beautiful Estate, and Swimming Pool inside. Nearer to Dubare Camp</p>
     
 	
-	<p>Address: <b>Pinkpatch Resort, Nanjrayapatna Kushalnagar</b></p>
+	<p>Address: <b>Kushalnagar</b></p>
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
