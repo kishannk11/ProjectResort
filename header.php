@@ -69,7 +69,7 @@
 <!--        <li><a href="rooms-tariff.php">Rooms & Tariff</a></li>   -->     
         <li><a href="introduction.php">Introduction</a></li>
         <li><a href="nearby.php">Nearby Attraction</a></li>
-        <li><a href="contact.php">Contact US</a></li>
+        <li><a href="contact.php">Contact us</a></li>
       </ul>
     </div><!-- Wnavbar-collapse -->
   </div><!-- container-fluid -->
