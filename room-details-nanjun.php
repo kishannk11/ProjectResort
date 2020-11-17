@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Nanjundeshwara Homestay</h1>
+<h1 class="title">Sarva Resorts</h1>
 
 
 
@@ -30,7 +30,7 @@
 	<li>Nearer to Dubare Camp</li>
 	<li>Complimentary Breakfast (No Food available)</li></ul></p>
 	   
-	<p>Address: <b>Nanjundeshwara Homestay, Nanjrayapatna, Kushalnagar</b></p>
+	<p>Address: <b>Kushalnagar</b></p>
 	
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
