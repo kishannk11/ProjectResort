@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Greenview Homestay</h1>
+<h1 class="title">Sarva Resorts</h1>
 
 
 
@@ -31,7 +31,7 @@
     
 	<p>(No Food)</p>
 	
-	<p>Address: <b>Greenview Homestay, Arji Church, Virajpet</b></p>
+	<p>Address: <b>Virajpet</b></p>
     
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
