@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Dweepa Resort</h1>
+<h1 class="title">Sarva Resorts</h1>
 
 
 
@@ -25,10 +25,10 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To DWEEPA RESORT!.. </p>
-		<p>Dweepa Resort is located in a very good scenic place where its surrounded by Backwater.</p>
+    <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To Sarva Resorts.. </p>
+		<p>This Resort is located in a very good scenic place where its surrounded by Backwater.</p>
     
-	<p>Address: <b>Dweepa Resort, Siddapura, Alur Taluk, Hassan</b></p>
+	<p>Address: <b>Hassan</b></p>
     
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
