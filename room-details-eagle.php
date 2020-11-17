@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Eagle Homestay</h1>
+<h1 class="title">Sarva Resorts</h1>
 
 
 
@@ -24,7 +24,7 @@
     <div class="col-sm-12 col-md-5"> 
     <p>Feel like home! This sentence you should take literally when staying here. The hosts welcome and care for you, If you were a Good Friend that comes for a visit. They prepare something enjoyable to eat for you, know every insider tip of the City and always have an open ear. Welcome to your friend's place!.... </p><br>
     <p><ul><li>(Food not Available)</li></ul></p>
-	<p>Address: <b>Eagle Homestay, Kushalnagar</b></p>
+	<p>Address: <b>Kushalnagar</b></p>
     </div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
