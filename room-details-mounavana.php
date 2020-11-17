@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">Mounavana Homestay</h1>
+<h1 class="title">Sarva Resorts</h1>
 
 
 
@@ -25,10 +25,10 @@
 <div class="room-features spacer">
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
-    <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To Mounavana Homestay!.. </p>
-    <p>Mounavana Homestay gives you the glimpse of staying the Farm House, surrounded by Forest. Nearer to Agumbe Viewpoint so that you can enjoy one of the beautiful Sunset in the Country</p>
+    <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit. They Prepare Something Enjoyable To Eat For You, Know Every Insider Tip Of The City And Always Have an Open Ear. Welcome To Sarva Resorts!.. </p>
+    <p>This homestay gives you the glimpse of staying the Farm House, surrounded by Forest. Nearer to Agumbe Viewpoint so that you can enjoy one of the beautiful Sunset in the Country</p>
     
-	<p>Address: <b>Mounavana Homestay, Near Agumbe Viewpoint, Theerthahalli</b></p>
+	<p>Address: <b>Theerthahalli</b></p>
 	</div>
     <div class="col-sm-6 col-md-3 amenitites"> 
     <h3>Amenitites</h3>    
