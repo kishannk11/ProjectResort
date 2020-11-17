@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<h1 class="title">GRK Resort</h1>
+<h1 class="title">Sarva Resort</h1>
 
 
 
@@ -24,9 +24,9 @@
   <div class="row">
     <div class="col-sm-12 col-md-5"> 
     <p>Feel Like Home! This sentence You Should Take Literally When Staying Here. The Hosts Welcome and Care For You, If You Were a Good Friend That Comes For a Visit.</p>
-    <p>GRK Resort is 28km away from Abbi falls and surrounded with GRK viewpoint hills and other places like Manzrabadh Fort, Bisle Ghat, Mallalli Falls, Railway Tunnel, Bettadha Baireshwara</p>
+    <p>This Resort is 28km away from Abbi falls and surrounded with GRK viewpoint hills and other places like Manzrabadh Fort, Bisle Ghat, Mallalli Falls, Railway Tunnel, Bettadha Baireshwara</p>
     
-	<p>Address: <b>GRK Resort, Achanahalli, Sakleshpur</b></p>
+	<p>Address: <b>Sakleshpur</b></p>
 	
 	</div>
 	
