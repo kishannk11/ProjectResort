@@ -170,7 +170,7 @@ if(isset($_POST["submit"]))
 <!-- form -->
 
 <div class="row">
-  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/eagle/Eagle1.JPG" class="img-responsive"><div class="info"><h3>Kushalnagar</h3><p>Eagle Homestay is located in one of the best place</p><a href="room-details-eagle.php" class="btn btn-default">Check Details</a></div></div></div>
+  <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/eagle/Eagle1.JPG" class="img-responsive"><div class="info"><h3>Kushalnagar</h3><p>This Homestay is located in one of the best place</p><a href="room-details-eagle.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/naveen/Naveen1.JPG" class="img-responsive"><div class="info"><h3>Kushalnagar</h3><p> Cozy, Comfy Homestay with Homely feeling, Near to famous Dubare</p><a href="room-details-naveen.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/nanjun/Nanjun1.JPG" class="img-responsive"><div class="info"><h3>Kushalnagar</h3><p>Feel like home place to have a comfortable stay, near to Dubare</p><a href="room-details-nanjun.php" class="btn btn-default">Check Details</a></div></div></div>
   <div class="col-sm-6 wowload fadeInUp"><div class="rooms"><img src="images/photos/grk/grk1.jpg" class="img-responsive"><div class="info"><h3>Sakleshpura</h3><p>Well located resort with great food available in the town and many more activities</p><a href="room-details-grk.php" class="btn btn-default">Check Details</a></div></div></div>
