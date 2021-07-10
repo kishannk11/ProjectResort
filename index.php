@@ -146,7 +146,7 @@ if(isset($_POST["submit"]))
     <div class="welcome-message">
         <div class="wrap-info">
             <div class="information">
-                <h1  class="animated fadeInDown">Hi</h1>
+                <h1  class="animated fadeInDown">Sarva Resorts</h1>
                 <p class="animated fadeInUp">Second home away from your home</p>                
             </div>
             <a href="#information" class="arrow-nav scroll wowload fadeInDownBig"><i class="fa fa-angle-down"></i></a>
